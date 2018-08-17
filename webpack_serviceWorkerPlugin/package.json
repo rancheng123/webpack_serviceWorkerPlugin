@@ -1,0 +1,8 @@
+{
+  "name": "webpack_serviceWorkerPlugin",
+  "version": "1.0.0",
+  "devDependencies": {
+
+  },
+  "main": "./lib/index"
+}
